@@ -2,7 +2,7 @@
 
 # Hello Rails app
 
-> In this project, a rails project is generated using `rails new Project` command that has connection to PostgreSQL database. This app says hello to the world when you navigate the home page at http://localhost:3000/
+> In this project, I will create a fully functional blog web app that will show the list of posts and allow readers to interact with them by adding comments and liking posts.
 
 
 ## Built With
